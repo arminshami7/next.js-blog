@@ -4,7 +4,7 @@
 
 > A fast, modern, and SEO-friendly blog built with Next.js and Tailwind CSS. This project demonstrates server-side rendering capabilities by fetching and rendering content from local Markdown files.
 
-**Live Demo:** [https://nextjs-blog-arminshami7.vercel.app/](https://nextjs-blog-arminshami7.vercel.app/)
+**Live Demo:** [https://nextjs-blog.vercel.app/](https://arminshami7-nextjs-blog.vercel.app/)
 
 ---
 
